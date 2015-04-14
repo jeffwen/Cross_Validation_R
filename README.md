@@ -1,4 +1,4 @@
-# Kth_Fold_Cross_Validation_R
+# Kth Fold Cross Validation R
 Cross validation code used to validate the accuracy of different models (Random Forest, Decision Tree, Adaboost, Naive Bayes). User can select the different folds that are required (default is set to 5 but this can be easily changed to 10)
 
 # Background
